@@ -26,7 +26,7 @@ console.log([1, 2, 'foo', 'bar', true, false]);
 // camelCase
 // PascalCase
 
-var someNumber = 123;
+var someNumber = 1234;
 console.log(someNumber);
 someNumber = 321;
 console.log(someNumber);
